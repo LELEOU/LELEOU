@@ -21,7 +21,8 @@ Sou comprometido, pontual, flexível com horários e apaixonado por desafios. Ac
 <img align="left" alt="React" title="React (básico)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Unity" title="Unity" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Power BI" title="Power BI (básico)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
+
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
 <br/>
 <br/>
@@ -48,7 +49,6 @@ Sou comprometido, pontual, flexível com horários e apaixonado por desafios. Ac
 
 • Email: leonardodevasconcelos3@gmail.com  
 • LinkedIn: [linkedin.com/in/leonardo-de-vasconcelos](https://www.linkedin.com/in/leonardo-de-vasconcelos)  
-• Localização: Porto Alegre, RS
 
 ---
 
