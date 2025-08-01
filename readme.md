@@ -6,7 +6,7 @@ Olá! Me chamo Leonardo de Vasconcelos Gonçalves, tenho 21 anos e sou estudante
 
 Sou comprometido, pontual, flexível com horários e apaixonado por desafios. Acredito no aprendizado constante e gosto de explorar novas áreas da tecnologia. Tenho experiência prática com desenvolvimento de jogos em Unity, APIs e bots para Discord.
 
-🔗 [Portfólio](https://leleou.github.io/Portfolio) · [LinkedIn](https://www.linkedin.com/in/leonardo-de-vasconcelos)
+🔗 [Portfólio](https://leleou.github.io/Portfolio)
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -22,7 +22,7 @@ Sou comprometido, pontual, flexível com horários e apaixonado por desafios. Ac
 <img align="left" alt="Unity" title="Unity" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
 <br/>
 <br/>
@@ -45,9 +45,20 @@ Sou comprometido, pontual, flexível com horários e apaixonado por desafios. Ac
 
 ---
 
+
 ### 📫 Contato
 
-• Email: leonardodevasconcelos3@gmail.com  
+
+<p align="left">
+  <span style="font-size:16px;vertical-align:middle;">📞 (51) 98658-9757</span>
+  <a href="mailto:leonardodevasconcelos3@gmail.com" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/gmail-E61B23.svg?logo=gmail" alt="Gmail" title="Gmail" />
+  </a>
+  <a href="https://discord.gg/3YGAKm3hHv" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Discord-black?logo=discord2" alt="Discord" title="Discord" />
+  </a>
+</p>
+
 • LinkedIn: [linkedin.com/in/leonardo-de-vasconcelos](https://www.linkedin.com/in/leonardo-de-vasconcelos)  
 
 ---
