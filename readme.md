@@ -48,18 +48,18 @@ Sou comprometido, pontual, flexível com horários e apaixonado por desafios. Ac
 
 ### 📫 Contato
 
-
 <p align="left">
-  <span style="font-size:16px;vertical-align:middle;">📞 (51) 98658-9757</span>
-  <a href="mailto:leonardodevasconcelos3@gmail.com" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/gmail-E61B23.svg?logo=gmail" alt="Gmail" title="Gmail" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-51--98658--9757-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Telefone" title="Telefone" height="38" style="margin-right:8px;" />
+  <a href="mailto:leonardodevasconcelos3@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/gmail-E61B23.svg?logo=gmail" alt="Gmail" title="Gmail" height="38" style="margin-right:8px;" />
   </a>
-  <a href="https://discord.gg/3YGAKm3hHv" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Discord-black?logo=discord2" alt="Discord" title="Discord" />
+  <a href="https://discord.gg/3YGAKm3hHv">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Discord-black?logo=discord2" alt="Discord" title="Discord" height="38" style="margin-right:8px;" />
   </a>
 </p>
-
-• LinkedIn: [linkedin.com/in/leonardo-de-vasconcelos](https://www.linkedin.com/in/leonardo-de-vasconcelos)  
+  <a href="https://www.linkedin.com/in/leonardo-de-vasconcelos" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Linkedin-grey.svg?logo=linkedin(2)" alt="LinkedIn" title="LinkedIn" height="38" style="margin-right:8px;vertical-align:middle;" />
+  </a>
 
 ---
 
