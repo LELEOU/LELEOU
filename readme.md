@@ -1,6 +1,6 @@
 # 👨‍💻 Leonardo de Vasconcelos
 
-**`Desenvolvedor de Software & Estudante de Engenharia`**
+**`Engenheiro de Software`**
 
 Olá! Me chamo Leonardo de Vasconcelos Gonçalves, tenho 21 anos e sou estudante de Engenharia de Software na UniRitter (conclusão prevista para 2026). Sou apaixonado por tecnologia, especialmente pelo desenvolvimento de sistemas, bots personalizados e jogos. Desde 2019 venho aprimorando meus conhecimentos em programação e, desde 2021, atuei como freelancer na plataforma Workana, criando soluções digitais para clientes diversos.
 
